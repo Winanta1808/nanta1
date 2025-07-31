@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Perkenalan Diri - Komang Winanta Tri Saputra</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f8ff;
+      padding: 20px;
+    }
+    h1 {
+      color: #1e90ff;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: #ffffff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    th, td {
+      padding: 12px;
+      border-bottom: 1px solid #ddd;
+      text-align: left;
+    }
+    th {
+      background-color: #1e90ff;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Perkenalan Diri</h1>
+  <table>
+    <tr>
+      <th>Informasi</th>
+      <th>Detail</th>
+    </tr>
+    <tr>
+      <td>Nama Lengkap</td>
+      <td>Komang Winanta Tri Saputra</td>
+    </tr>
+    <tr>
+      <td>Nama Panggilan</td>
+      <td>Nanta</td>
+    </tr>
+    <tr>
+      <td>Tanggal Lahir</td>
+      <td>18 Februari 2008</td>
+    </tr>
+    <tr>
+      <td>Tempat Tinggal</td>
+      <td>Denpasar, Bali</td>
+    </tr>
+    <tr>
+      <td>Sekolah</td>
+      <td>SMK Negeri 1 Denpasar</td>
+    </tr>
+    <tr>
+      <td>Hobi</td>
+      <td>Bermain game online (Pokémon Unite, Free Fire), menonton film aksi/petualangan</td>
+    </tr>
+    <tr>
+      <td>Makanan Favorit</td>
+      <td>Nasi goreng spesial dengan telur mata sapi</td>
+    </tr>
+    <tr>
+      <td>Minuman Favorit</td>
+      <td>Es coklat</td>
+    </tr>
+    <tr>
+      <td>Warna Favorit</td>
+      <td>Biru langit</td>
+    </tr>
+    <tr>
+      <td>Impian</td>
+      <td>Bepergian tanpa khawatir soal keuangan</td>
+    </tr>
+    <tr>
+      <td>Motto Hidup</td>
+      <td>Setiap langkah kecil adalah awal dari perjalanan besar</td>
+    </tr>
+    <tr>
+      <td>Tempat Impian</td>
+      <td>Jepang (melihat bunga sakura dan mencoba sushi asli)</td>
+    </tr>
+    <tr>
+      <td>Rencana Setelah Lulus</td>
+      <td>Kuliah Manajemen Bisnis sambil bekerja, fokus ke bisnis online</td>
+    </tr>
+  </table>
+
+</body>
+</html>
