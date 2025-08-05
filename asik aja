@@ -49,6 +49,8 @@
       <td>Tanggal Lahir</td>
       <td>18 Februari 2008</td>
     </tr>
+     <tr>umur<tr>
+      <td>17 tahun<td>
     <tr>
       <td>Tempat Tinggal</td>
       <td>Denpasar, Bali</td>
@@ -89,6 +91,9 @@
       <td>Rencana Setelah Lulus</td>
       <td>Kuliah Manajemen Bisnis sambil bekerja, fokus ke bisnis online</td>
     </tr>
+    <tr>
+        <td>aktivitas<td>
+        <td>bekerja<td>
   </table>
 
 </body>
